@@ -6,7 +6,7 @@
 
 ## 웹 폰트
 
-사용하는 `font-family`의 이름은 `SLEIGothic`입니다.
+사용하는 `font-family`의 이름은 `SLEI Gothic`입니다.
 
 ### HTML
 
@@ -24,7 +24,7 @@
 
 ```css
 @font-face {
-  font-family: 'SLEIGothic';
+  font-family: 'SLEI Gothic';
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -60,7 +60,7 @@
 어느 브라우저나 시스템 환경에서도 동일한 폰트가 적용되어야 한다면 아래와 같이 구성하는 걸 추천합니다. `-apple-system`과 `BlinkMacSystemFont`는 맥, `Segoe UI`는 윈도우, `Roboto`는 안드로이드의 기본 폰트입니다.
 
 ```css
-font-family: "SLEIGothic", -apple-system, BlinkMacSystemFont, "Segoe UI",Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+font-family: "SLEI Gothic", -apple-system, BlinkMacSystemFont, "Segoe UI",Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 ```
 
 &nbsp;
