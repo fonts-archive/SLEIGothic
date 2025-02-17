@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'SLEIGothic';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SLEIGothic/SLEIGothic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/SLEIGothic/SLEIGothic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/SLEIGothic/SLEIGothic.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/SLEIGothic/SLEIGothic.ttf') format('truetype');
+}
